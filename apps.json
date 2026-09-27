@@ -11,7 +11,7 @@
   "apps": [
     {
       "id": "test-123pan",
-      "name": "动漫4k已破解",
+      "name": "动漫4K增强版",
       "version": "1.0.0",
       "platform": "Android",
       "category": "工具",
@@ -32,6 +32,19 @@
       "desc": "介绍",
       "download": "https://yun.139.com/shareweb/#/w/i/2xTrJEeQWx0t0",
       "tags": ["标签"],
+      "featured": false,
+      "publishedAt": "2026-09-28"
+    },
+    {
+      "id": "app-new-01",
+      "name": "Excel文档解锁会员",
+      "version": "1.0.0",
+      "platform": "Android",
+      "category": "工具",
+      "size": "待填写",
+      "desc": "解锁VIP",
+      "download": "https://1824370799.share.123pan.cn/123pan/XozPjv-vL6M3?pwd=SeuD#",
+      "tags": ["测试"],
       "featured": false,
       "publishedAt": "2026-09-28"
     }
