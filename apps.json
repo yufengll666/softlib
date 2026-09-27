@@ -1,11 +1,11 @@
-[{
+{
   "site": {
     "name": "秋海软件库",
     "slogan": "自研软件 · 稳定更新",
     "notice": "本站所有软件均为秋海自研，免费提供下载。",
     "updatedAt": "2026-09-28"
   },
-  "apps": 
+  "apps": [
     {
       "id": "com.test.demo",
       "name": "测试软件",
