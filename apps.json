@@ -2,7 +2,7 @@
   "site": {
     "name": "秋海软件库",
     "slogan": "自研软件 · 稳定更新",
-    "notice": "本站所有软件均为秋海自研，免费提供下载。如遇问题请通过反馈渠道联系。",
+    "notice": "本站所有软件均为秋海破解，免费提供下载。如遇问题请通过反馈渠道联系。",
     "updatedAt": "2026-09-28"
   },
   "apps": [
@@ -18,11 +18,9 @@
       "tags": ["测试"],
       "featured": true,
       "publishedAt": "2026-09-28"
-    }
-  ]
-}
- {
-      "id": "唯一标识",
+    },
+    {
+      "id": "hongguo-adfree",
       "name": "红果免费漫剧去广告",
       "version": "1.0.0",
       "platform": "Android",
@@ -34,3 +32,5 @@
       "featured": false,
       "publishedAt": "2026-09-28"
     }
+  ]
+}
