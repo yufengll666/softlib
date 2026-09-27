@@ -13,7 +13,7 @@
       "platform": "Android",
       "category": "工具",
       "size": "20 MB",
-      "desc": "用 123 云盘链接测试下载是否正常。测试完成后删掉这条。",
+      "desc": "秋海",
       "download": "https://1824370799.share.123pan.cn/123pan/XozPjv-jz6M3?pwd=2RNg",
       "tags": ["测试"],
       "featured": true,
@@ -21,3 +21,16 @@
     }
   ]
 }
+ {
+      "id": "唯一标识",
+      "name": "红果免费漫剧去广告",
+      "version": "1.0.0",
+      "platform": "Android",
+      "category": "分类",
+      "size": "大小",
+      "desc": "介绍",
+      "download": "https://yun.139.com/shareweb/#/w/i/2xTrJEeQWx0t0",
+      "tags": ["标签"],
+      "featured": false,
+      "publishedAt": "2026-09-28"
+    }
