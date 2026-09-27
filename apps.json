@@ -1,0 +1,8 @@
+[
+    {
+        "name": "测试软件",
+        "package": "com.test.demo",
+        "desc": "用来测试平台的示例软件",
+        "downloadUrl": "https://xxx.apk"
+    }
+]
