@@ -2,19 +2,19 @@
   "site": {
     "name": "秋海软件库",
     "slogan": "自研软件 · 稳定更新",
-    "notice": "本站所有软件均为秋海自研，免费提供下载。",
+    "notice": "本站所有软件均为秋海自研，免费提供下载。如遇问题请通过反馈渠道联系。",
     "updatedAt": "2026-09-28"
   },
   "apps": [
     {
-      "id": "com.test.demo",
+      "id": "test-123pan",
       "name": "测试软件",
       "version": "1.0.0",
       "platform": "Android",
       "category": "工具",
-      "size": "5.0 MB",
-      "desc": "用来测试平台的示例软件",
-      "download": "https://xxx.apk",
+      "size": "20 MB",
+      "desc": "用 123 云盘链接测试下载是否正常。测试完成后删掉这条。",
+      "download": "https://1824370799.share.123pan.cn/123pan/XozPjv-jz6M3?pwd=2RNg",
       "tags": ["测试"],
       "featured": true,
       "publishedAt": "2026-09-28"
