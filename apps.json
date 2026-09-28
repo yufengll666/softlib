@@ -33,13 +33,13 @@
   "apps": [
     {
       "id": "test-123pan",
-      "name": "动漫4K增强版",
+      "name": "动漫4K去广告",
       "version": "1.0.0",
       "platform": "Android",
       "category": "影视视频",
       "size": "20 MB",
       "desc": "去广告版",
-      "download": "https://github.com/yufengll666/softlib/releases/download/2.8.0/4k_no_ad.apk",
+      "download": "https://ghproxy.net/https://github.com/yufengll666/softlib/releases/download/2.8.0/4k_no_ad.apk",
       "tags": ["测试"],
       "featured": true,
       "publishedAt": "2026-09-28"
