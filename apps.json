@@ -1,8 +1,8 @@
 {
   "site": {
     "name": "秋海软件库",
-    "slogan": "自研软件库 · 稳定更新",
-    "about": "秋海软件库，专注整理、分享实用安卓工具所有软件优先保证纯净无捆绑，持续迭代修复问题，为爱好者提供一个简单清爽的下载站点。本站仅作学习交流用途，欢迎反馈BUG与功能建议。",
+    "slogan": "自研软件 · 稳定更新",
+    "about": "秋海软件库，专注整理、分享实用安卓工具与自研项目。所有软件优先保证纯净无捆绑，持续迭代修复问题，为爱好者提供一个简单清爽的下载站点。本站仅作学习交流用途，欢迎反馈BUG与功能建议。",
     "footer": "秋海软件库 · 保持热爱，持续更新",
     "disclaimer": [
       "本站所有资源仅供个人学习、技术交流使用，严禁用于任何商业用途。",
@@ -18,17 +18,22 @@
     "popup": {
       "text": "使用中遇到任何问题，请通过左上角 QQ 联系我。\n\n官方 QQ 群：687521756\n（长按群号即可复制）"
     },
+    "categories": [
+      { "name": "工具",    "color": "#f0a020" },
+      { "name": "影视视频", "color": "#e8698a" },
+      { "name": "游戏",    "color": "#7c5cd6" }
+    ],
     "updatedAt": "2026-09-28"
   },
   "apps": [
     {
       "id": "test-123pan",
-      "name": "动漫4K去广告版",
+      "name": "动漫4K增强版",
       "version": "1.0.0",
       "platform": "Android",
-      "category": "工具",
+      "category": "影视视频",
       "size": "20 MB",
-      "desc": "去广告版",
+      "desc": "秋海",
       "download": "https://1824370799.share.123pan.cn/123pan/XozPjv-jz6M3?pwd=2RNg",
       "tags": ["测试"],
       "featured": true,
@@ -39,7 +44,7 @@
       "name": "红果免费漫剧去广告",
       "version": "1.0.0",
       "platform": "Android",
-      "category": "分类",
+      "category": "影视视频",
       "size": "大小",
       "desc": "介绍",
       "download": "https://yun.139.com/shareweb/#/w/i/2xTrJEeQWx0t0",
@@ -58,6 +63,19 @@
       "download": "https://1824370799.share.123pan.cn/123pan/XozPjv-vL6M3?pwd=SeuD#",
       "tags": ["测试"],
       "featured": false,
+      "publishedAt": "2026-09-28"
+    },
+    {
+      "id": "shipin-1",
+      "name": "某视频软件",
+      "version": "1.0.0",
+      "platform": "Android",
+      "category": "影视视频",
+      "size": "待填写",
+      "desc": "介绍",
+      "download": "链接",
+      "tags": [],
+      "featured": true,
       "publishedAt": "2026-09-28"
     }
   ]
