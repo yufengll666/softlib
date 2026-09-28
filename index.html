@@ -57,7 +57,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei
       <span id="dlText">下载安装包</span>
     </a>
     <div class="dl-meta">
-      <span id="metaVer">版本 1.2.0</span><span id="metaSize">—</span><span>Android 5.0+</span>
+      <span id="metaVer">版本 1.8.0</span><span id="metaSize">262 KB</span><span>Android 5.0+</span>
     </div>
   </section>
   <section class="block">
@@ -71,7 +71,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei
   </section>
   <section class="block">
     <h2 class="block-title">应用介绍</h2>
-    <p>秋海软件库是一个轻量的自研软件分享应用，界面简洁、无广告、无推送。所有软件均由作者自行开发并免费提供下载。</p>
+    <p>秋海软件库是一个轻量的自研软件分享应用，界面简洁、无广告、无推送。资源仅供学习交流使用。</p>
   </section>
   <section class="block">
     <h2 class="block-title">联系与反馈</h2>
@@ -89,9 +89,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei
 <script>
 (function(){
 'use strict';
-var APK_URL='https://ghproxy.net/https://github.com/yufengll666/softlib/releases/download/v1.0.0/_1.2.0.apk';
+var APK_URL='https://ghproxy.net/https://github.com/yufengll666/softlib/releases/download/1.8.0/_1.8.0.apk';
 var QQ_NUMBER='2586637073', QQ_GROUP='687521756';
-var APP_NAME='秋海软件库', APP_SLOGAN='自研软件 · 稳定更新', APP_VERSION='1.2.0';
+var APP_NAME='秋海软件库', APP_SLOGAN='自研软件 · 稳定更新', APP_VERSION='1.8.0';
 function $(id){return document.getElementById(id);}
 function toast(m){var t=$('toast');t.textContent=m;t.classList.add('show');clearTimeout(toast._t);toast._t=setTimeout(function(){t.classList.remove('show');},1700);}
 function copyText(x){if(!x)return;var ok=function(){toast('已复制');};var fb=function(){try{var ta=document.createElement('textarea');ta.value=x;ta.style.cssText='position:fixed;left:-9999px';document.body.appendChild(ta);ta.select();document.execCommand('copy');document.body.removeChild(ta);ok();}catch(e){toast('复制失败');}};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(x).then(ok).catch(fb);}else{fb();}}
@@ -103,7 +103,7 @@ var b=$('dlBtn');
 if(APK_URL){b.href=APK_URL;b.setAttribute('download','');b.addEventListener('click',function(){toast('开始下载…');});}
 var rows=document.querySelectorAll('[data-copy]');
 for(var i=0;i<rows.length;i++){(function(el){el.addEventListener('click',function(){copyText(el.getAttribute('data-copy')==='qq'?QQ_NUMBER:QQ_GROUP);});})(rows[i]);}
-var img=new Image();img.onload=function(){$('appIcon').innerHTML='';$('appIcon').appendChild(img);};img.src='appIcon.png';
+var img=new Image();img.onload=function(){$('appIcon').innerHTML='';$('appIcon').appendChild(img);};img.src='minis_1790572878696.png';
 })();
 </script>
 </body>
