@@ -28,11 +28,63 @@
       { "name": "影视视频", "color": "#e8698a" },
       { "name": "游戏", "color": "#7c5cd6" }
     ],
-    "updatedAt": "2026-09-28"
+    "updatedAt": "2026-10-26"
   },
   "apps": [
     {
-      "id": "test-123pan",
+      "id": "hongguo-73932",
+      "name": "红果免费漫剧",
+      "version": "7.3.9.32",
+      "platform": "Android",
+      "category": "影视视频",
+      "size": "137.4 MB",
+      "desc": "红果免费漫剧，海量短剧漫剧免费看（MD5: 8ad6ccc0d6b2642311696b379be3bc20）",
+      "download": "https://ghproxy.net/https://github.com/yufengll666/softlib/releases/download/apps/com.kylin.read_7.3.9.32.apk",
+      "tags": ["影视", "短剧"],
+      "featured": true,
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "id": "huangguo-153",
+      "name": "黄果免费看",
+      "version": "1.5.3",
+      "platform": "Android",
+      "category": "影视视频",
+      "size": "55.5 MB",
+      "desc": "免费看剧去广告（MD5: 24958f216b57793042175436d4887bdf）",
+      "download": "https://ghproxy.net/https://github.com/yufengll666/softlib/releases/download/apps/dark.WhZpF.DgtvV_1.5.3.apk",
+      "tags": ["影视"],
+      "featured": false,
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "id": "mitao-1114",
+      "name": "蜜桃直播",
+      "version": "1.1.14",
+      "platform": "Android",
+      "category": "影视视频",
+      "size": "95.6 MB",
+      "desc": "直播应用（MD5: 090ce037d45a5dca5c65c7f1df56d2f3）",
+      "download": "https://ghproxy.net/https://github.com/yufengll666/softlib/releases/download/apps/com.qingning.box_1.1.14.apk",
+      "tags": ["直播"],
+      "featured": false,
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "id": "excel-unlock-212",
+      "name": "Excel表格文档",
+      "version": "2.1.2",
+      "platform": "Android",
+      "category": "工具",
+      "size": "41.7 MB",
+      "desc": "Excel 文档解锁会员（MD5: 6435bd8c649661068ab87b6a0db2dd09）",
+      "download": "https://ghproxy.net/https://github.com/yufengll666/softlib/releases/download/apps/com.gamawh.exceler_2.1.2.apk",
+      "tags": ["工具", "办公"],
+      "featured": true,
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "id": "anime-4k-noad",
       "name": "动漫4K去广告",
       "version": "1.0.0",
       "platform": "Android",
@@ -40,46 +92,7 @@
       "size": "20 MB",
       "desc": "去广告版",
       "download": "https://ghproxy.net/https://github.com/yufengll666/softlib/releases/download/2.8.0/4k_no_ad.apk",
-      "tags": ["测试"],
-      "featured": true,
-      "publishedAt": "2026-09-28"
-    },
-    {
-      "id": "hongguo-adfree",
-      "name": "红果免费漫剧去广告",
-      "version": "1.0.0",
-      "platform": "Android",
-      "category": "影视视频",
-      "size": "大小",
-      "desc": "介绍",
-      "download": "https://yun.139.com/shareweb/#/w/i/2xTrJEeQWx0t0",
-      "tags": ["标签"],
-      "featured": false,
-      "publishedAt": "2026-09-28"
-    },
-    {
-      "id": "app-new-01",
-      "name": "Excel文档解锁会员",
-      "version": "1.0.0",
-      "platform": "Android",
-      "category": "工具",
-      "size": "待填写",
-      "desc": "解锁VIP",
-      "download": "https://1824370799.share.123pan.cn/123pan/XozPjv-vL6M3?pwd=SeuD#",
-      "tags": ["测试"],
-      "featured": false,
-      "publishedAt": "2026-09-28"
-    },
-    {
-      "id": "shipin-1",
-      "name": "某视频软件",
-      "version": "1.0.0",
-      "platform": "Android",
-      "category": "影视视频",
-      "size": "待填写",
-      "desc": "介绍",
-      "download": "链接",
-      "tags": ["测试"],
+      "tags": ["影视"],
       "featured": false,
       "publishedAt": "2026-09-28"
     }
