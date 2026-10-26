@@ -13,15 +13,15 @@
       "用户不得利用本站资源从事违反国家法律法规的行为。",
       "本站保留随时调整、下架资源以及修改本声明的权利。"
     ],
-    "version": "1.8.3",
+    "version": "1.8.4",
     "update": {
-      "version": "1.8.3",
-      "url": "https://github.com/yufengll666/softlib/releases/download/1.8.3/_1.8.3.apk",
-      "notes": "优化数据加载速度，公告支持点击链接直接下载。"
+      "version": "1.8.4",
+      "url": "https://github.com/yufengll666/softlib/releases/download/1.8.4/_1.8.4.apk",
+      "notes": "修复公告更新不及时问题，数据加载提速。"
     },
     "notice": "本站资源仅供学习交流，免费提供下载。如遇问题请通过反馈渠道联系。",
     "popup": {
-      "text": "🎉 最新版 v1.8.3 已发布！\n\n公告现已支持点击链接直接下载。\n\n最新安装包下载：\nhttps://github.com/yufengll666/softlib/releases/download/1.8.3/_1.8.3.apk\n\n点击链接即可下载安装（也可在 QQ 群 687521756 获取）"
+      "text": "🎉 最新版 v1.8.4 已发布！\n\n修复公告更新不及时问题。\n\n最新安装包下载：\nhttps://github.com/yufengll666/softlib/releases/download/1.8.4/_1.8.4.apk\n\n点击链接即可下载安装（也可在 QQ 群 687521756 获取）"
     },
     "categories": [
       {
