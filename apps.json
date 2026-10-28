@@ -37,9 +37,24 @@
         "color": "#7c5cd6"
       }
     ],
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-28"
   },
   "apps": [
+    {
+      "id": "game-1_0_3-49230",
+      "name": "冬日的季节",
+      "version": "1.0.3",
+      "platform": "Android",
+      "category": "游戏",
+      "size": "1548 MB",
+      "desc": "游戏大包（文件名 _1.0.3.apk，1.5GB）",
+      "download": "https://github.com/yufengll666/softlib/releases/download/1.5.3/_1.0.3.apk",
+      "tags": [
+        "游戏"
+      ],
+      "featured": false,
+      "publishedAt": "2026-10-28"
+    },
     {
       "id": "hongguo-73932",
       "name": "红果免费漫剧",
